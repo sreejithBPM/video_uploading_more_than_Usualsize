@@ -1,0 +1,32 @@
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\appsettings.Development.json
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\appsettings.json
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\video uploader.exe
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\video uploader.deps.json
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\video uploader.runtimeconfig.json
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\video uploader.dll
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\video uploader.pdb
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.csproj.AssemblyReference.cache
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.GeneratedMSBuildEditorConfig.editorconfig
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.AssemblyInfoInputs.cache
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.AssemblyInfo.cs
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.csproj.CoreCompileInputs.cache
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.MvcApplicationPartsAssemblyInfo.cs
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.MvcApplicationPartsAssemblyInfo.cache
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\staticwebassets\msbuild.video uploader.Microsoft.AspNetCore.StaticWebAssets.props
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\staticwebassets\msbuild.build.video uploader.props
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.video uploader.props
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.video uploader.props
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\staticwebassets.pack.json
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\staticwebassets.build.json
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\staticwebassets.development.json
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\scopedcss\bundle\video uploader.styles.css
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.csproj.CopyComplete
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.dll
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\refint\video uploader.dll
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.pdb
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\video uploader.genruntimeconfig.cache
+G:\bpmbiinc\runsheetflutter UI\new api for video uploading\video uploader\video uploader\obj\Debug\net6.0\ref\video uploader.dll

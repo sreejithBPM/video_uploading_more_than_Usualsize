@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\video uploader.props" />
+</Project>
